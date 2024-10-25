@@ -1,17 +1,17 @@
 # Algorithms-and-Data-Structures
 This repository contains solutions to various algorithmic problems and data structures, implemented in Python. The solutions are organized by problem name and ID, focusing on clarity, efficiency, and best practices in Python.
 
-#Table of Contents
-#Overview
-#Folder Structure
-#Getting Started
-#Installation
-#Usage
-#Contributing
-#License
-#Contact
+# Table of Contents
+# Overview
+# Folder Structure
+# Getting Started
+# Installation
+# Usage
+# Contributing
+# License
+# Contact
 
-#Overview
+# Overview
 This repository is dedicated to providing solutions to a range of algorithms and data structure challenges, often found on competitive programming platforms like LeetCode, HackerRank, and others. Each problem's solution is placed in a dedicated folder named after the problem's title and ID.
 
 Folder Structure
@@ -30,10 +30,11 @@ Algorithms-and-Data-Structures/
 The folder contains subdirectories for each problem.
 Each subdirectory is named using the format <Problem ID>. <Problem Title>, with the corresponding Python solution file inside.
 Each solution folder may also include a README.md file that describes the problem and the approach used.
-Getting Started
+
+# Getting Started
 To get a local copy of this project up and running, follow these steps:
 
-Prerequisites
+# Prerequisites
 Python 3.x installed on your machine.
 Git installed for cloning the repository.
 Installation
