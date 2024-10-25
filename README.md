@@ -1,15 +1,15 @@
 # Algorithms-and-Data-Structures
 This repository contains solutions to various algorithmic problems and data structures, implemented in Python. The solutions are organized by problem name and ID, focusing on clarity, efficiency, and best practices in Python.
 
-# Table of Contents
-# Overview
-# Folder Structure
-# Getting Started
-# Installation
-# Usage
-# Contributing
-# License
-# Contact
+ Table of Contents
+ Overview
+ Folder Structure
+ Getting Started
+ Installation
+ Usage
+ Contributing
+ License
+ Contact
 
 # Overview
 This repository is dedicated to providing solutions to a range of algorithms and data structure challenges, often found on competitive programming platforms like LeetCode, HackerRank, and others. Each problem's solution is placed in a dedicated folder named after the problem's title and ID.
@@ -87,4 +87,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 Contact
 Maintained by Lemifd.
 
-Feel free to reach out via GitHub issues or email@example.com for any queries or suggestions!
+Feel free to reach out via GitHub issues or lemifedasa0@gmail.com for any queries or suggestions!
